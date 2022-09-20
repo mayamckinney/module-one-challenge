@@ -16,6 +16,6 @@ Comments to HTML & CSS
 
 The website will still visually look the same, however, the code was completely reworked.
 
-[Here is the website via GitHub Pages]()
+[Here is the website via GitHub Pages](https://mayamckinney.github.io/module-one-challenge/)
 
 ![Here is how the website appears](https://courses.bootcampspot.com/courses/2191/files/2110944/preview)
