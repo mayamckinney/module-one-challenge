@@ -15,10 +15,13 @@ header {
     color: #ffffff;
 }
 
+/* only edits the title header */
 .title h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/* mid text in between title */
 
 .title h1 .seo {
     color: #d9dcd6;
@@ -36,6 +39,7 @@ header {
     list-style-type: none;
 }
 
+/* holds title into box */
 .title nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,7 +74,7 @@ p {
     margin-left: 25px;
 }
 
-
+/* parent to content block */
 .content {
     width: 75%;
     display: inline-block;
@@ -109,6 +114,7 @@ p {
     color: #ffffff;
 }
 
+/* headers for aside */
 .benefit-block h3 {
     margin-bottom: 10px;
     text-align: center;
